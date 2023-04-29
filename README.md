@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarv0925
+- 👋 Hi, I’m Sarvesh
 - 👀 I’m curious
 
 <!---
